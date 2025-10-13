@@ -1,4 +1,4 @@
-local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/hluuvn/bananahub/refs/heads/main/main.lua"))();
 local v15 = v14:CreateWindow({
     Title = "Banana Cat Hub-Blox Fruit [ Premium ]",-- thay tên bạn muốn đặt
     SubTitle = "By Obii",-- tên bạn
@@ -9026,4 +9026,5 @@ spawn(function()
         end
     end
 end);
+
 
